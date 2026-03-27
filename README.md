@@ -1,1 +1,1 @@
-# Shape-of-Thought-Progressive-Object-Assembly-via-Visual-Chain-of-Thought
+# Shape-of-Thought-Progressive-Object-Assembly-via-Visual-Chain-of-Thought<img width="1581" height="930" alt="92b96005df136427142ae3f8afdb1bac" src="https://github.com/user-attachments/assets/3550ff9d-8106-414e-883b-37285c463dfe" />
