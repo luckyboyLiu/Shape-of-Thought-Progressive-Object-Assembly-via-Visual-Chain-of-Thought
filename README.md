@@ -18,4 +18,4 @@ We evaluate all methods under a four-view protocol (front/left/right/back) and i
 
 We show cases involving self-occlusion, thin structures, and ambiguous depth, where single-view supervision is under-specified. Multi-view supervision reduces many of these errors, although some challenging cases still remain.
 
-<img src="https://github.com/user-attachments/assets/bf56f978-0dc5-42d4-ae80-a3d620423ee5" style="width:100%; max-width:900px;" />
+<img src="https://github.com/user-attachments/assets/bf56f978-0dc5-42d4-ae80-a3d620423ee5" style="width:100%; max-width:1100px;" />
