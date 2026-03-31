@@ -2,7 +2,7 @@
 
 Additional single-view qualitative examples across keyboards, beds with storage compartments, refrigerators, faucets, and headphones. Compared methods frequently exhibit degenerate geometry, collapse, missing or miscounted parts, and disconnections, whereas SoT more consistently preserves numeracy, attribute binding, attachment, and overall topology. Blue boxes mark structural/detail errors, red boxes mark count or attribute errors, and green boxes mark connectivity or part-dislocation failures.
 
-<img src="https://github.com/user-attachments/assets/1895064f-6f75-432a-81de-99e0e26d886f" style="width:100%; max-width:900px;" />
+<img src="https://github.com/user-attachments/assets/8ee20df7-cc32-4ae6-a78f-23dc7ddf0084" style="width:100%; max-width:900px;" />
 
 ### **Figure R2. Representative multi-view SoT traces across viewpoints.**
 
